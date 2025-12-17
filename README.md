@@ -21,6 +21,7 @@ This project analyzes subscription churn trends for a fictional streaming servic
 - **Segments:** 87 and 30
 - **Churn Trend:**
 month |	churn_rate_87	| churn_rate_30
+------|---------------|---------------
 2017-01-01 | 0.25	| 0.08
 2017-02-01 | 0.32 |	0.07
 2017-03-01 | 0.48 |	0.12
